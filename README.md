@@ -8,6 +8,6 @@
 可以看到base_line.gif在后面一种重复，而下面的att_new.gif则没有这种情况。
 ![att](att_new.gif)
 ## 专利
-[指向很早之前的一篇专利](https://zhuanli.tianyancha.com/6c7b526ef893cfa88100bd930804cbb7?_blank)
+[指向很早之前的一篇专利](https://zhuanli.tianyancha.com/6c7b526ef893cfa88100bd930804cbb7){:target="_blank"}
 
 ![现在的专利](专利.jpg)
