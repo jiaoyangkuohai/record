@@ -4,4 +4,4 @@
 两张图片是解决重复注意力的一种方法，申请了专利<br/>
 可以看到base_line.gif在后面一种重复，而att_new.gif则没有这种情况。
 ## 很早之前的一篇专利
-[CN109491594A_矩阵求逆过程中优化数据存储空间的方法和装置](https://zhuanli.tianyancha.com/6c7b526ef893cfa88100bd930804cbb7)
+[指向专利位置](https://zhuanli.tianyancha.com/6c7b526ef893cfa88100bd930804cbb7)
