@@ -1,6 +1,7 @@
 # record
 记录一些成绩吧
 ## COCO
+美丽的程序员节
 ![COCO](COCO_Challenge.png)
 ## 两个git图片
 两张图片是解决重复注意力的一种方法，申请了专利<br/>
