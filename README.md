@@ -10,6 +10,4 @@
 ## 专利
 [指向很早之前的一篇专利](https://zhuanli.tianyancha.com/6c7b526ef893cfa88100bd930804cbb7)
 
-<a href="https://zhuanli.tianyancha.com/6c7b526ef893cfa88100bd930804cbb7" target="_blank">指向很早之前的一篇专利</a>
-
 ![现在的专利](专利.jpg)
